@@ -4,7 +4,7 @@ A Clojure library for transliteration cyrillic Serbian words to latin.
 
 
 [![Dependencies Status](http://jarkeeper.com/hashobject/transliteration.srp/status.svg)](http://jarkeeper.com/hashobject/transliteration.srp)
-
+[![Circle CI](https://circleci.com/gh/hashobject/transliteration.srp.svg?style=svg)](https://circleci.com/gh/hashobject/transliteration.srp)
 ## Usage
 
 ```
